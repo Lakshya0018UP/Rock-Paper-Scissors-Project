@@ -5,5 +5,5 @@ Project for the JavaScript(.js) for hands-on Practice and making a Competitive G
 
 Enjoy the Game provide feedback on it and do star it:)
 
-Do see it here (https://lakshya0018up.github.io/Rock-Paper-Scissors-Project/)
+Do see it here (http://rock-paper-scissors.lakshyagarg10.repl.co)
 
